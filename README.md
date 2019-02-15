@@ -1,5 +1,5 @@
-# ComputationModelsOfSchizophrenia
-Computation models of Schizophrenia
+# ComputationalModelsOfSchizophrenia
+Computational models of schizophrenia
 
 Based on cortical pruning of Hopfield attractor networks, and using the Izhikevich model of the neuron in a ring attractor network to model stability of neuron spiking
 
